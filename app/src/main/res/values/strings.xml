@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MyApplication2</string>
+    <string name="text">Welcome to localization app</string>
+    <string name="btnConvert">Currency Converter</string>
+    <string name="btnCountry">Country Locator</string>
+    <string name="btnNavigate">Navigate</string>
+    <string name="btnMap">Show Map</string>
+    <string name="txtLocation">Set Location</string>
+    <string name="country_prompt">Choose a country</string>
+
+    <string-array name="country_arrays">
+        <item>Malaysia</item>
+        <item>United States</item>
+        <item>Indonesia</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+        <item>India</item>
+    </string-array>
+
+    <string-array name="country_arrays2">
+        <item>Malaysia1</item>
+        <item>United States1</item>
+        <item>Indonesia1</item>
+    </string-array>
+
+    <string-array name="county_geopoint">
+        <item>12</item>
+        <item>-40.900557, 174.885971</item>
+        <item>20.593684,78.96288</item>
+    </string-array>
+
+</resources>
